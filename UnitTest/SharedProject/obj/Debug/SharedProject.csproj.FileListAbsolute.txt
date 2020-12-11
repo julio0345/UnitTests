@@ -1,0 +1,6 @@
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\bin\Debug\SharedProject.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\bin\Debug\SharedProject.pdb
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\obj\Debug\SharedProject.csprojAssemblyReference.cache
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\obj\Debug\SharedProject.csproj.CoreCompileInputs.cache
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\obj\Debug\SharedProject.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\SharedProject\obj\Debug\SharedProject.pdb

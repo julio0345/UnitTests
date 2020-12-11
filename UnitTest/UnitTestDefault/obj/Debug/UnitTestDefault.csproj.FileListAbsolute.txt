@@ -1,0 +1,16 @@
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\UnitTestDefault.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\UnitTestDefault.pdb
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\SharedProject.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\SharedProject.pdb
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\obj\Debug\UnitTestDefault.csprojAssemblyReference.cache
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\obj\Debug\UnitTestDefault.csproj.CoreCompileInputs.cache
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\obj\Debug\UnitTestDefault.csproj.CopyComplete
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\obj\Debug\UnitTestDefault.dll
+C:\WorkspaceStudyDotNet\UnitTest\UnitTest\UnitTestDefault\obj\Debug\UnitTestDefault.pdb
